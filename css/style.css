@@ -40,7 +40,7 @@
 
 .card__image:hover:after {
   content: "";
-  background-image: url(./images/icon-view.svg);
+  background-image: url(/images/icon-view.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
